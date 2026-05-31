@@ -1,0 +1,100 @@
+2026-05-31 13:43:55 - INFO - SteamCMD: steamcmd.sh[23066]: Starting  /media/astral/7DFD-F7FB/Counter-Strike2-Server/steamcmd/linux32/steamcmd
+2026-05-31 13:43:56 - INFO - SteamCMD: Redirecting stderr to '/home/astral/Steam/logs/stderr.txt'
+2026-05-31 13:43:56 - INFO - SteamCMD: Logging directory: '/home/astral/Steam/logs'
+2026-05-31 13:43:56 - INFO - SteamCMD: [  0%] Checking for available updates...
+2026-05-31 13:43:56 - INFO - SteamCMD: [----] Verifying installation...
+2026-05-31 13:43:56 - INFO - SteamCMD: UpdateUI: skip show logo
+2026-05-31 13:43:56 - INFO - SteamCMD: Steam Console Client (c) Valve Corporation - version 1779919584
+2026-05-31 13:43:56 - INFO - SteamCMD: -- type 'quit' to exit --
+2026-05-31 13:43:56 - INFO - SteamCMD: Loading Steam API...[0mOK
+2026-05-31 13:43:56 - INFO - SteamCMD: [0m
+2026-05-31 13:43:57 - INFO - SteamCMD: Connecting anonymously to Steam Public...[0mOK
+2026-05-31 13:43:58 - INFO - SteamCMD: [0mWaiting for client config...[0mOK
+2026-05-31 13:43:58 - INFO - SteamCMD: [0mWaiting for user info...[0mOK
+2026-05-31 13:44:00 - INFO - SteamCMD: [0m Update state (0x1) running, progress: 0.00 (0 / 0)
+2026-05-31 13:44:02 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 29.89 (1237365456 / 4139667819)
+2026-05-31 13:44:04 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 32.98 (1365382556 / 4139667819)
+2026-05-31 13:44:06 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 34.92 (1445756109 / 4139667819)
+2026-05-31 13:44:08 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 35.48 (1468911907 / 4139667819)
+2026-05-31 13:44:10 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 37.25 (1541923802 / 4139667819)
+2026-05-31 13:44:12 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 37.99 (1572649338 / 4139667819)
+2026-05-31 13:44:14 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 38.55 (1595718010 / 4139667819)
+2026-05-31 13:44:16 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 42.85 (1773733550 / 4139667819)
+2026-05-31 13:44:18 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 43.39 (1796357936 / 4139667819)
+2026-05-31 13:44:21 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 43.85 (1815232304 / 4139667819)
+2026-05-31 13:44:23 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 48.57 (2010654487 / 4139667819)
+2026-05-31 13:44:25 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 49.87 (2064574198 / 4139667819)
+2026-05-31 13:44:27 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 50.38 (2085545718 / 4139667819)
+2026-05-31 13:44:29 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 50.96 (2109662966 / 4139667819)
+2026-05-31 13:44:31 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 51.47 (2130634486 / 4139667819)
+2026-05-31 13:44:33 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 51.85 (2146363126 / 4139667819)
+2026-05-31 13:44:35 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 52.41 (2169431798 / 4139667819)
+2026-05-31 13:44:37 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 52.79 (2185160438 / 4139667819)
+2026-05-31 13:44:39 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 52.99 (2193549046 / 4139667819)
+2026-05-31 13:44:41 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 55.84 (2311552074 / 4139667819)
+2026-05-31 13:44:43 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 56.35 (2332523594 / 4139667819)
+2026-05-31 13:44:45 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 57.50 (2380393001 / 4139667819)
+2026-05-31 13:44:47 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 59.45 (2461007443 / 4139667819)
+2026-05-31 13:44:49 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 59.72 (2472257670 / 4139667819)
+2026-05-31 13:44:51 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 61.29 (2537318393 / 4139667819)
+2026-05-31 13:44:53 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 62.87 (2602682495 / 4139667819)
+2026-05-31 13:44:55 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 63.39 (2624051519 / 4139667819)
+2026-05-31 13:44:57 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 64.63 (2675663687 / 4139667819)
+2026-05-31 13:44:59 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 66.60 (2757063661 / 4139667819)
+2026-05-31 13:45:01 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 67.08 (2777023406 / 4139667819)
+2026-05-31 13:45:03 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 68.35 (2829452254 / 4139667819)
+2026-05-31 13:45:05 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 69.89 (2893419371 / 4139667819)
+2026-05-31 13:45:07 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 70.15 (2903914251 / 4139667819)
+2026-05-31 13:45:09 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 71.87 (2975145958 / 4139667819)
+2026-05-31 13:45:11 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 72.33 (2994020326 / 4139667819)
+2026-05-31 13:45:13 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 72.91 (3018137574 / 4139667819)
+2026-05-31 13:45:15 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 75.76 (3136298575 / 4139667819)
+2026-05-31 13:45:17 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 76.29 (3158318671 / 4139667819)
+2026-05-31 13:45:19 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 76.62 (3171950159 / 4139667819)
+2026-05-31 13:45:21 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 77.13 (3192921679 / 4139667819)
+2026-05-31 13:45:23 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 77.43 (3205504591 / 4139667819)
+2026-05-31 13:45:25 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 78.02 (3229621839 / 4139667819)
+2026-05-31 13:45:27 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 78.75 (3260030543 / 4139667819)
+2026-05-31 13:45:29 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 79.23 (3279953487 / 4139667819)
+2026-05-31 13:45:31 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 81.49 (3373298153 / 4139667819)
+2026-05-31 13:45:33 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 81.99 (3394269768 / 4139667819)
+2026-05-31 13:45:35 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 82.70 (3423629896 / 4139667819)
+2026-05-31 13:45:37 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 83.41 (3452990024 / 4139667819)
+2026-05-31 13:45:39 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 83.87 (3472111747 / 4139667819)
+2026-05-31 13:45:41 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 84.23 (3486791811 / 4139667819)
+2026-05-31 13:45:43 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 84.81 (3510909059 / 4139667819)
+2026-05-31 13:45:45 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 85.27 (3529783427 / 4139667819)
+2026-05-31 13:45:47 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 86.72 (3590009550 / 4139667819)
+2026-05-31 13:45:49 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 87.41 (3618321102 / 4139667819)
+2026-05-31 13:45:51 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 88.34 (3656908200 / 4139667819)
+2026-05-31 13:45:53 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 89.05 (3686268328 / 4139667819)
+2026-05-31 13:45:55 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 89.66 (3711434152 / 4139667819)
+2026-05-31 13:45:57 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 91.32 (3780383597 / 4139667819)
+2026-05-31 13:45:59 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 91.95 (3806597997 / 4139667819)
+2026-05-31 13:46:01 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 92.51 (3829738903 / 4139667819)
+2026-05-31 13:46:03 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 94.27 (3902520453 / 4139667819)
+2026-05-31 13:46:05 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 94.73 (3921394821 / 4139667819)
+2026-05-31 13:46:07 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 95.11 (3937123461 / 4139667819)
+2026-05-31 13:46:09 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 95.46 (3951803525 / 4139667819)
+2026-05-31 13:46:11 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 95.89 (3969629317 / 4139667819)
+2026-05-31 13:46:13 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 96.15 (3980115077 / 4139667819)
+2026-05-31 13:46:15 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 96.35 (3988503685 / 4139667819)
+2026-05-31 13:46:17 - INFO - SteamCMD: [0m Update state (0x61) downloading, progress: 96.53 (3995843717 / 4139667819)
+2026-05-31 13:46:19 - INFO - SteamCMD: [0m Update state (0x41) staging, progress: 96.68 (4002135173 / 4139667819)
+2026-05-31 13:46:21 - INFO - SteamCMD: [0m Update state (0x41) staging, progress: 97.11 (4019960965 / 4139667819)
+2026-05-31 13:46:23 - INFO - SteamCMD: [0m Update state (0x41) staging, progress: 97.39 (4031495301 / 4139667819)
+2026-05-31 13:46:25 - INFO - SteamCMD: [0m Update state (0x41) staging, progress: 97.77 (4047223941 / 4139667819)
+2026-05-31 13:46:28 - INFO - SteamCMD: [0m Update state (0x41) staging, progress: 97.99 (4056661125 / 4139667819)
+2026-05-31 13:46:30 - INFO - SteamCMD: [0m Update state (0x41) staging, progress: 98.20 (4065049733 / 4139667819)
+2026-05-31 13:46:32 - INFO - SteamCMD: [0m Update state (0x81) verifying update, progress: 11.85 (490375497 / 4139667819)
+2026-05-31 13:46:34 - INFO - SteamCMD: [0m Update state (0x81) verifying update, progress: 33.65 (1392868846 / 4139667819)
+2026-05-31 13:46:36 - INFO - SteamCMD: [0m Update state (0x81) verifying update, progress: 100.00 (4139667819 / 4139667819)
+2026-05-31 13:46:38 - INFO - SteamCMD: [0m Update state (0x0) unknown, progress: 0.00 (0 / 0)
+2026-05-31 13:46:38 - INFO - SteamCMD: [0mError! App '730' state is 0x606 after update job.
+2026-05-31 13:46:38 - INFO - SteamCMD: [0mUnloading Steam API...[0mOK
+2026-05-31 13:46:38 - INFO - SteamCMD: [0m
+2026-05-31 13:46:38 - INFO - Verificando Metamod no gameinfo.gi...
+2026-05-31 13:46:38 - INFO - Metamod já está presente.
+2026-05-31 13:46:38 - INFO - Validando server.cfg e RCON...
+2026-05-31 13:46:38 - INFO - server.cfg já contém a RCON correta.
+2026-05-31 13:46:38 - INFO - === ATUALIZAÇÃO CONCLUÍDA COM SUCESSO ===

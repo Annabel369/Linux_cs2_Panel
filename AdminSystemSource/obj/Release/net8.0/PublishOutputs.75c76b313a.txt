@@ -1,0 +1,4 @@
+C:\Apache24\htdocs\Counter-Strike_agent\AdminSystemSource\bin\Release\net8.0\publish\AdminSystem.dll
+C:\Apache24\htdocs\Counter-Strike_agent\AdminSystemSource\bin\Release\net8.0\publish\AdminSystem.deps.json
+C:\Apache24\htdocs\Counter-Strike_agent\AdminSystemSource\bin\Release\net8.0\publish\AdminSystem.pdb
+C:\Apache24\htdocs\Counter-Strike_agent\AdminSystemSource\bin\Release\net8.0\publish\MySqlConnector.dll

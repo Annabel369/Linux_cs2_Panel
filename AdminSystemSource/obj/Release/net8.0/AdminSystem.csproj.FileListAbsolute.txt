@@ -1,0 +1,14 @@
+C:\Apache24\htdocs\Counter-Strike_agent\AdminSystemSource\bin\Release\net8.0\AdminSystem.deps.json
+C:\Apache24\htdocs\Counter-Strike_agent\AdminSystemSource\bin\Release\net8.0\AdminSystem.dll
+C:\Apache24\htdocs\Counter-Strike_agent\AdminSystemSource\bin\Release\net8.0\AdminSystem.pdb
+C:\Apache24\htdocs\Counter-Strike_agent\AdminSystemSource\bin\Release\net8.0\MySqlConnector.dll
+C:\Apache24\htdocs\Counter-Strike_agent\AdminSystemSource\obj\Release\net8.0\AdminSystem.csproj.AssemblyReference.cache
+C:\Apache24\htdocs\Counter-Strike_agent\AdminSystemSource\obj\Release\net8.0\AdminSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apache24\htdocs\Counter-Strike_agent\AdminSystemSource\obj\Release\net8.0\AdminSystem.AssemblyInfoInputs.cache
+C:\Apache24\htdocs\Counter-Strike_agent\AdminSystemSource\obj\Release\net8.0\AdminSystem.AssemblyInfo.cs
+C:\Apache24\htdocs\Counter-Strike_agent\AdminSystemSource\obj\Release\net8.0\AdminSystem.csproj.CoreCompileInputs.cache
+C:\Apache24\htdocs\Counter-Strike_agent\AdminSystemSource\obj\Release\net8.0\AdminSys.B56EA0EF.Up2Date
+C:\Apache24\htdocs\Counter-Strike_agent\AdminSystemSource\obj\Release\net8.0\AdminSystem.dll
+C:\Apache24\htdocs\Counter-Strike_agent\AdminSystemSource\obj\Release\net8.0\refint\AdminSystem.dll
+C:\Apache24\htdocs\Counter-Strike_agent\AdminSystemSource\obj\Release\net8.0\AdminSystem.pdb
+C:\Apache24\htdocs\Counter-Strike_agent\AdminSystemSource\obj\Release\net8.0\ref\AdminSystem.dll

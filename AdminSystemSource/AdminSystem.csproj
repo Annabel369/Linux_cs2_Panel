@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+    <AssemblyName>AdminSystem</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="CounterStrikeSharp.API">
+      <HintPath>C:\cs2-ds\game\csgo\addons\counterstrikesharp\api\CounterStrikeSharp.API.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="MySqlConnector">
+      <HintPath>C:\cs2-ds\game\csgo\addons\counterstrikesharp\plugins\AdminControlPlugin\MySqlConnector.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
